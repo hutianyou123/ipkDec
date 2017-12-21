@@ -1,0 +1,7 @@
+10
+10
+180
+135
+1
+6
+E:\ffmpeg_project\transcli\seq\output\tv5_pro1.jpg

@@ -1,0 +1,7 @@
+10
+10
+180
+101
+1
+6
+E:\ffmpeg_project\transcli\seq\output\other1_pro1.jpg
